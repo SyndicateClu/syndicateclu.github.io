@@ -2,4 +2,4 @@
 
 ---
 
-[On Notice / Dead to Me](syndicateclu.github.io/pages/ondtm.md)
+[On Notice / Dead to Me](syndicateclu.github.io/_pages/ondtm.md)
